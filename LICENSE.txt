@@ -1,0 +1,21 @@
+MIT License
+
+Copyright (C) 2025 Siddhartha Ghosh
+
+Permission is hereby Granted, free of Charge, to any Person Obtaining a Copy
+of this Software and Associated Documentation files (the "Software"), to Deal
+in the Software Without restriction, including Without limitation the rights
+to Use, Copy, Modify, Merge, Publish, Distribute, Sublicense, and/Or Sell
+Copies Of the Software, and to Permit Persons to Whom the Software is
+furnished to Do So, Subject to the following Conditions:
+
+The above Copyright notice and this Permission notice Shall be included in all
+Copies Or Substantial Portions Of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
