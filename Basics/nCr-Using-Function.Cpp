@@ -2,7 +2,8 @@
 // For Example, if User inputs 5 and 2, the Output Should be:
 // - The value Of Combination is: 360
 // Approach: 1. Create function "factorial" to find factorial Of a number.
-//           2. Then Put the formula Of nCr in Main Function and Print the Combination.
+//           2. Then Put the formula Of nCr in Main Function and Print the 
+//              Combination.
 
 #include<iostream>
 using namespace std;
