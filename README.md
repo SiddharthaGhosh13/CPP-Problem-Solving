@@ -7,4 +7,4 @@ The goal of this repository is to focus on logic building and be consistent.
 
 Language used: C++
 
-# Author - Siddhartha Ghosh
+Author - Siddhartha Ghosh
