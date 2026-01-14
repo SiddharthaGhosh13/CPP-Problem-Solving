@@ -6,3 +6,5 @@ This repository contains selected C++ problems that I solved while learning prob
 The goal of this repository is to focus on logic building and be consistent.
 
 Language used: C++
+
+# Author - Siddhartha Ghosh
