@@ -1,8 +1,10 @@
 # CPP-Problem-Solving
 <h3><i>Overview</i></h3>
 
-This repository Contains Selected C++ Problems that I Solved While learning Problem-Solving and fundamentals Of Data Structures Concepts.
+This repository contains selected C++ problems that I solved while learning problem-solving and fundamentals of Data Structures concepts.
 
-The Goal Of this repository is to focus on Logic Building and Consistency.
+The goal of this repository is to focus on logic building and be consistent.
 
-Language Used: C++
+Language used: C++
+
+Author - Siddhartha Ghosh
