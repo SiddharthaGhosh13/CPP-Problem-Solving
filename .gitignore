@@ -1,2 +1,14 @@
+# Executables
 *.exe
+*.out
+*.app
+
+# Object files
+*.o
+
+# VS Code
 .vscode/
+
+# Debug files
+*.log
+*.tmp
