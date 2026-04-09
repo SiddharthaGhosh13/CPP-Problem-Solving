@@ -1,3 +1,13 @@
+// Problem Statement: Take Vector Input from User and find the Last Occurance of a specified element. 
+// For Example, if User inputs elements as 2, 7, 5, 7, 9 and the specified element is 7, 
+// the Output Should be:
+// Last occurance of 7 is at position: 4
+// Approach: 1. First, take the size of the vector and its elements as input from the user.
+//           2. Then, take the specified element as input from the user.
+//           3. Next, traverse the vector from the end and compare each element with the specified element.
+//           4. If a match is found, store the index and break the loop.
+//           5. Finally, if a match is found, print the index of the last occurance; otherwise, print that the element is not found in the vector.
+
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -43,7 +53,7 @@ int main(){
     }
     else{
 
-        cout<<"Element "<<last_Occurance<<" not found in the array!"<<endl;
+        cout<<"Element: "<<last_Occurance<<", not found in the vector!"<<endl;
 
     }
 

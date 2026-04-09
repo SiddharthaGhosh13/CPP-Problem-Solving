@@ -1,3 +1,12 @@
+// Problem Statement: Take Vector Input from User and find the Number of Occurrences of a specified element. 
+// For Example, if User inputs elements as 2, 7, 5, 7, 9 and the specified element is 7, 
+// the Output Should be:
+// Number of occurrences of 7 is: 2
+// Approach: 1. First, take the size of the vector and its elements as input from the user.
+//           2. Then, take the specified element as input from the user.
+//           3. Next, traverse the vector and count each occurrence of the specified element.
+//           4. Finally, print the count of occurrences.
+
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -35,12 +44,12 @@ int main(){
 
     if(count>0){
 
-        cout<<"Element "<<Occurance<<" occurs "<<count<<" times"<<endl;
+        cout<<"Element: "<<Occurance<<", occurs "<<count<<" times"<<endl;
 
     }
     else{
 
-        cout<<"Elemnent "<<Occurance<<" not found in the array!"<<endl;
+        cout<<"Element: "<<Occurance<<", not found in the vector!"<<endl;
 
     }
 
