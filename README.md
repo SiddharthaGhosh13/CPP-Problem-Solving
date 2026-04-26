@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Logic-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/last-commit/SiddharthaGhosh13/CPP-Problem-Solving?style=for-the-badge"/>
 </p>
 
 ---
