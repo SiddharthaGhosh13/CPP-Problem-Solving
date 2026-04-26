@@ -59,9 +59,7 @@ g++ ReverseAPart_array.cpp -o output
 
 ## Sample Output
 
-```markdown
-<img width="952" height="308" alt="Image" src="https://github.com/user-attachments/assets/b805b4dc-f6f3-4188-9bb7-0b0ed0f62a85" />
-```
+<img width="952" height="308" alt="Output" src="https://github.com/user-attachments/assets/b805b4dc-f6f3-4188-9bb7-0b0ed0f62a85"/>
 
 ---
 
