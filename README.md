@@ -15,7 +15,7 @@ This repository contains C++ solutions to Problems I solved while building
 strong fundamentals in **Data Structures**, **Algorithms**, and
 **Logic Building**.
 
-The goal is Clarity, and Writing clean, Well-commented code
+The goal is consistency, clarity, and writing clean, code
 that reflects real understanding.
 
 ---
@@ -24,7 +24,7 @@ that reflects real understanding.
 
 | Category | Topics |
 |---|---|
-| Basics | Basic Calculations, If-Else, Loops, Pattern Printing, Functions |
+| Basics | Basic calculations, Conditionals, Loops, Pattern Printing, Functions |
 | Arrays | Traversal |
 | Vectors | Traversal, Sorting |
 
@@ -32,10 +32,10 @@ that reflects real understanding.
 
 ## Folder Structure
 
-CPP-Problem-Solving/
-├── Arrays
-├── Basics
-├── Vector
+CPP-Problem-Solving/<br>
+├── Arrays<br>
+├── Basics<br>
+├── Vector<br>
 
 ## How to Run
 
@@ -59,12 +59,8 @@ g++ ReverseAPart_array.cpp -o output
 
 ## Sample Output
 
-> 📸 **Add a screenshot here, bhai.**
-> Run any problem → take a terminal screenshot → save as
-> `assets/sample_output.png` → replace the line below:
-
 ```markdown
-![Sample Output](c:\Users\SIDDHARTHA\OneDrive\Desktop\Sid.C++\Code Running & Output.png)
+![Sample Output](c:\Users\SIDDHARTHA\OneDrive\Desktop\Sid.C++\Output.png)
 ```
 
 ---
@@ -80,8 +76,8 @@ g++ ReverseAPart_array.cpp -o output
 ## Author
 
 **Siddhartha Ghosh**
-B.Tech CSE | Aspiring ML/AI Engineer
-itzsiddharthaghosh13@gmail.com
+B.Tech CSE | Aspiring ML/AI Engineer<br>
+[Email](itzsiddharthaghosh13@gmail.com)<br>
 [GitHub](https://github.com/SiddharthaGhosh13)
 
 ---
