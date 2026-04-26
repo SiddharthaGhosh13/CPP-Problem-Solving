@@ -60,7 +60,7 @@ g++ ReverseAPart_array.cpp -o output
 ## Sample Output
 
 ```markdown
-<img src="c:\Users\SIDDHARTHA\OneDrive\Desktop\Sid.C++\Output.png"/>
+➡️ [Output](Assets/Output.png)
 ```
 
 ---
@@ -77,8 +77,8 @@ g++ ReverseAPart_array.cpp -o output
 
 **Siddhartha Ghosh**
 B.Tech CSE | Aspiring ML/AI Engineer<br>
-📧[Email](itzsiddharthaghosh13@gmail.com)<br>
-🔗[GitHub](https://github.com/SiddharthaGhosh13)
+📧 [Email](itzsiddharthaghosh13@gmail.com)<br>
+🔗 [GitHub](https://github.com/SiddharthaGhosh13)
 
 ---
 
