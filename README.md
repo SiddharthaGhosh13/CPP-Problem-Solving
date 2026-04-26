@@ -60,7 +60,7 @@ g++ ReverseAPart_array.cpp -o output
 ## Sample Output
 
 ```markdown
-➡️ [Output](Assets/Output.png)
+➡️ ![Output](Assets/Output.png)
 ```
 
 ---
